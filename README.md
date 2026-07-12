@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a5e,100:0e2d52&height=200&section=header&text=Fatima%20Iftikhar&fontColor=7dd3fc&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Deep%20Learning&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Fatima...;BSCS+Graduate+%40+Islamia+University+of+Bahawalpur;Building+AI-Powered+%26+Automated+Applications;Deep+Learning+%7C+Generative+AI+%7C+Full-Stack+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Fatima...;AI%2FML+Engineer+%7C+Full+Stack+Developer;BSCS+Graduate+%40+Islamia+University+of+Bahawalpur;Building+AI-Powered+%26+Automated+Applications;Deep+Learning+%7C+Generative+AI+%7C+Full-Stack+Dev" alt="Typing SVG" />
 
 <br/>
 
