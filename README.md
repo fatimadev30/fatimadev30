@@ -49,96 +49,143 @@ identity:
 
 ## 💫 About Me
 
-Computer Science graduate (BSCS, 2026) passionate about building intelligent, real-world AI/ML solutions and full-stack web applications.
+🎓 Computer Science graduate (BSCS, 2026) who loves turning ideas into working AI/ML systems and full-stack apps.
 
-I recently built an AI-powered eye disease detection system using Deep Learning (TensorFlow, Keras, MobileNetV3Large), achieving **94%+ classification accuracy** across four eye conditions. Beyond this, I've developed AI chatbots, workflow automations (n8n), and REST API integrations using OpenAI, Gemini, and Google APIs.
+🔬 Currently, my flagship project is an AI-powered eye disease detection system — trained a MobileNetV3Large model with **94%+ accuracy** across four eye conditions, wrapped in a Streamlit app with a built-in chatbot. Check it out below ⬇️
 
-🔹 Open to internships, entry-level roles, and collaborative projects — let's connect!
+⚙️ I also build automation workflows (n8n) and integrate LLMs (OpenAI, Gemini) into real products — from Instagram content pipelines to translation tools.
+
+📌 Check out my pinned repos for the full picture of what I've been building.
+
+💬 Open to internships, entry-level roles & collaborative projects — feel free to reach out!
 
 ---
 
 ## 🚀 Pinned Projects
 
-| Project | Description |
-|---|---|
-| [**Eye Disease Detection System**](https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot) | AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — 94%+ accuracy, with an integrated AI chatbot & prediction history. |
-| [**Instagram Post Automation**](https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok) | n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API. |
-| **AI Language Translation Tool** | Django-based web app for real-time multilingual translation using the Google Translate API. |
-| **YouTube Competitor Finder** | n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Eye Disease Detection System
+AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — **94%+ accuracy**, with an integrated AI chatbot & prediction history.
+
+`Python` `TensorFlow` `Streamlit` `SQLite`
+
+[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 Instagram Post Automation
+n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.
+
+`n8n` `Grok API` `Cloudinary`
+
+[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 AI Language Translation Tool
+Django-based web app for real-time multilingual translation using the Google Translate API.
+
+`Python` `Django` `Bootstrap`
+
+[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 YouTube Competitor Finder
+n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.
+
+`n8n` `YouTube API` `Google Sheets`
+
+[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="160"><b>🧠 Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<td width="50%" valign="top">
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 </td>
 </tr>
 <tr>
-<td align="center"><b>🤖 AI / Machine Learning</b></td>
-<td>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<td width="50%" valign="top">
+
+### ✨ Generative AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Frameworks & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 </td>
 </tr>
 <tr>
-<td align="center"><b>✨ Generative AI & Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧩 Frameworks & Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🚀 Tools & Deployment</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
+<td colspan="2" valign="top">
+
+### 🚀 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadev30&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadev30&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadev30&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadev30&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&cache_seconds=86400"/>
 
 <br/>
 
@@ -146,7 +193,7 @@ I recently built an AI-powered eye disease detection system using Deep Learning 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fatimadev30&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fatimadev30&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8&no-bg=true"/>
 
 </div>
 
@@ -154,7 +201,7 @@ I recently built an AI-powered eye disease detection system using Deep Learning 
 
 <div align="center">
 
-> *"Turning data into decisions, one model at a time."*
+> *"Code, learn, build, repeat."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2d52,50:203a5e,100:0f0c29&height=120&section=footer" width="100%"/>
 
