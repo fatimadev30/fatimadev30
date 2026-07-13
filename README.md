@@ -63,38 +63,48 @@ identity:
 
 ## 🚀 Pinned Projects
 
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Description</th>
-<th align="left">Tech Stack</th>
-<th align="center">Link</th>
-</tr>
-<tr>
-<td><b>Eye Disease Detection System</b></td>
-<td>AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — 94%+ accuracy, with an integrated AI chatbot & prediction history.</td>
-<td>Python, TensorFlow, Streamlit, SQLite</td>
-<td align="center"><a href="https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot">Repo</a></td>
-</tr>
-<tr>
-<td><b>Instagram Post Automation</b></td>
-<td>n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.</td>
-<td>n8n, Grok API, Cloudinary</td>
-<td align="center"><a href="https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok">Repo</a></td>
-</tr>
-<tr>
-<td><b>AI Language Translation Tool</b></td>
-<td>Django-based web app for real-time multilingual translation using the Google Translate API.</td>
-<td>Python, Django, Bootstrap</td>
-<td align="center"><a href="https://github.com/fatimadev30">Repo</a></td>
-</tr>
-<tr>
-<td><b>YouTube Competitor Finder</b></td>
-<td>n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.</td>
-<td>n8n, YouTube API, Google Sheets</td>
-<td align="center"><a href="https://github.com/fatimadev30">Repo</a></td>
-</tr>
-</table>
+### 👁️ Eye Disease Detection System
+AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — 94%+ accuracy, with an integrated AI chatbot & prediction history.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot)
+
+---
+
+### 📸 Instagram Post Automation
+n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok%20API-000000?style=flat-square&logo=x&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok)
+
+---
+
+### 🌐 AI Language Translation Tool
+Django-based web app for real-time multilingual translation using the Google Translate API.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
+
+---
+
+### 🔍 YouTube Competitor Finder
+n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
 
 ---
 
@@ -146,6 +156,16 @@ identity:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=fatimadev30&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimadev30&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
