@@ -21,10 +21,6 @@
 
 ---
 
-```bash
-fatima@devbox:~$ whoami --verbose
-```
-
 ```yaml
 identity:
   name:       "Fatima Iftikhar"
