@@ -63,6 +63,10 @@ identity:
 
 ## 🚀 Pinned Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 👁️ Eye Disease Detection System
 AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — 94%+ accuracy, with an integrated AI chatbot & prediction history.
 
@@ -73,7 +77,8 @@ AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using M
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📸 Instagram Post Automation
 n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.
@@ -84,7 +89,10 @@ n8n workflow that generates and auto-publishes Instagram posts from Google Sheet
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 AI Language Translation Tool
 Django-based web app for real-time multilingual translation using the Google Translate API.
@@ -95,7 +103,8 @@ Django-based web app for real-time multilingual translation using the Google Tra
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔍 YouTube Competitor Finder
 n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.
@@ -105,6 +114,10 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,6 +132,17 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -147,17 +171,6 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Tools & Deployment**
 
@@ -193,7 +206,7 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 
 <div align="center">
 
-> *"Always building, always learning."*
+> *"Code, learn, build, repeat."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2d52,50:203a5e,100:0f0c29&height=120&section=footer" width="100%"/>
 
