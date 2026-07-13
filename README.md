@@ -65,48 +65,34 @@ identity:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 👁️ Eye Disease Detection System
-AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — **94%+ accuracy**, with an integrated AI chatbot & prediction history.
-
-`Python` `TensorFlow` `Streamlit` `SQLite`
-
-[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 📸 Instagram Post Automation
-n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.
-
-`n8n` `Grok API` `Cloudinary`
-
-[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok)
-
-</td>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Tech Stack</th>
+<th align="center">Link</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 AI Language Translation Tool
-Django-based web app for real-time multilingual translation using the Google Translate API.
-
-`Python` `Django` `Bootstrap`
-
-[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 YouTube Competitor Finder
-n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.
-
-`n8n` `YouTube API` `Google Sheets`
-
-[![View Repo](https://img.shields.io/badge/View-Repo-22D3EE?style=flat-square&logo=github&logoColor=white)](https://github.com/fatimadev30)
-
-</td>
+<td><b>Eye Disease Detection System</b></td>
+<td>AI-powered app detecting 4 retinal conditions (CNV, DME, Drusen, Normal) using MobileNetV3Large — 94%+ accuracy, with an integrated AI chatbot & prediction history.</td>
+<td>Python, TensorFlow, Streamlit, SQLite</td>
+<td align="center"><a href="https://github.com/fatimadev30/Eye-Disease-Detection-with-chatbot">Repo</a></td>
+</tr>
+<tr>
+<td><b>Instagram Post Automation</b></td>
+<td>n8n workflow that generates and auto-publishes Instagram posts from Google Sheets using Grok AI, Cloudinary, and Facebook Graph API.</td>
+<td>n8n, Grok API, Cloudinary</td>
+<td align="center"><a href="https://github.com/fatimadev30/InstagramPost-Agent-from-Google-Sheets-with-Grok">Repo</a></td>
+</tr>
+<tr>
+<td><b>AI Language Translation Tool</b></td>
+<td>Django-based web app for real-time multilingual translation using the Google Translate API.</td>
+<td>Python, Django, Bootstrap</td>
+<td align="center"><a href="https://github.com/fatimadev30">Repo</a></td>
+</tr>
+<tr>
+<td><b>YouTube Competitor Finder</b></td>
+<td>n8n automation that identifies and logs up to 50 relevant YouTube channels daily for competitor analysis.</td>
+<td>n8n, YouTube API, Google Sheets</td>
+<td align="center"><a href="https://github.com/fatimadev30">Repo</a></td>
 </tr>
 </table>
 
@@ -114,21 +100,14 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Languages
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI / Machine Learning
+**AI / Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -137,21 +116,13 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✨ Generative AI & Automation
+**Generative AI & Automation**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Frameworks & Databases
+**Frameworks & Databases**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -161,39 +132,20 @@ n8n automation that identifies and logs up to 50 relevant YouTube channels daily
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚀 Tools & Deployment
+**Tools & Deployment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadev30&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=22D3EE&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadev30&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&cache_seconds=86400"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=fatimadev30&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=fatimadev30&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8&no-bg=true"/>
 
 </div>
 
